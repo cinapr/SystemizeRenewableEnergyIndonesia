@@ -4,6 +4,14 @@ This assignment aims to deliver system architecture for innovative system aimed 
 We presented a structured and detailed proposal for delivering this innovative solutions.
 
 
+## Pitching Video
+Pitching Video of this project is available on : https://www.youtube.com/watch?v=BZDaS9aHx3c
+
+## Code
+The code represented on this project is available on :
+https://github.com/SoftwareArchitechtureUniVaqPolloRanger/SoftwareArchitechtureProject2022PolloRanger
+
+
 ## Project Background
 
 This project aims to address Indonesia's critical energy challenges by leveraging a smart grid system integrated with IoT, predictive analytics, and renewable energy sources. The proposed solution optimizes energy production and distribution, enhances efficiency, and supports Indonesia's sustainability goals.
@@ -87,11 +95,3 @@ It outlines a system designed to manage and optimize renewable energy usage acro
   - **Predict and Produce**: Uses weather data to forecast renewable energy production.
   - **User-end Two-Way Communication**: Utilizes smart plugs to monitor and manage individual energy usage.
   - **Stakeholders and Concerns**: Details the interests of various stakeholders, including users, energy companies, developers, and architects, focusing on performance, scalability, usability, and security.
-
-
-## Pitching Video
-Pitching Video of this project is available on : https://www.youtube.com/watch?v=BZDaS9aHx3c
-
-## Code
-The code represented on this project is available on :
-https://github.com/SoftwareArchitechtureUniVaqPolloRanger/SoftwareArchitechtureProject2022PolloRanger
