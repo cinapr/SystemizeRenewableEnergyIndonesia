@@ -68,7 +68,6 @@ This project aims to address Indonesia's critical energy challenges by leveragin
 Indonesia has set ambitious renewable energy targets, aiming to achieve:
 - **23% renewable energy** in the energy mix by 2025.
 - **Carbon neutrality** by 2060.
-- 
 ---
 
 This system directly supports these objectives by promoting scalable and sustainable energy solutions.
