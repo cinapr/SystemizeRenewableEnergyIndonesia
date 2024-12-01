@@ -84,9 +84,9 @@ It outlines a system designed to manage and optimize renewable energy usage acro
 **System Description**: Explains how the system integrates renewable energy sources (solar, marine, geothermal) with traditional fossil fuels as backups. It aims to maximize efficiency, reduce CO2 emissions, and inform users about energy consumption and costs.
 
 **Prototype Description**: Describes two main system components:
-  **Predict and Produce**: Uses weather data to forecast renewable energy production.
-  **User-end Two-Way Communication**: Utilizes smart plugs to monitor and manage individual energy usage.
-  **Stakeholders and Concerns**: Details the interests of various stakeholders, including users, energy companies, developers, and architects, focusing on performance, scalability, usability, and security.
+  - **Predict and Produce**: Uses weather data to forecast renewable energy production.
+  - **User-end Two-Way Communication**: Utilizes smart plugs to monitor and manage individual energy usage.
+  - **Stakeholders and Concerns**: Details the interests of various stakeholders, including users, energy companies, developers, and architects, focusing on performance, scalability, usability, and security.
 
 
 ## Pitching Video
